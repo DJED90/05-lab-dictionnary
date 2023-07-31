@@ -20,7 +20,7 @@ export async function obtenirInfosMot(mot) {
 
           // Affichage du mot recherché s'il y a un fichier audio (mp3)
           const motParagraphe = document.createElement("h2");
-          motParagraphe.innerHTML = `<span>${motMajuscule}</span> <audio controls id="audio-player" src="${audioUrl}" style="display: none;"></audio><img id="audio-icon" src="./image/audio.png" alt="icone haut parleur pour écouter la phonétique" width="20" height="20">`;
+          motParagraphe.innerHTML = `<span>${motMajuscule}</span> <audio controls id="audio-player" src="${audioUrl}" style="display: none;"></audio><img id="audio-icon" src="./image/audio.webp" alt="icone haut parleur pour écouter la phonétique" width="20" height="20">`;
           container.appendChild(motParagraphe);
 
           // Récupération de la fonction de la balise audio sur la balise image pour rendre la fonction de l'audio cliquable sur l'image

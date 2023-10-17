@@ -1,4 +1,6 @@
 Projet Dictionary
+
+
 Bienvenue dans le projet Dictionary, une application web qui vous permet de rechercher des mots, d'obtenir leur définition et d'écouter leur prononciation. Voici un aperçu du code source du fichier index.js de ce projet, qui fait usage de Webpack et GitHub Pages :
 
 Fichier index.js

@@ -1,7 +1,6 @@
 # Application de Dictionnaire
 
 ## Table des matières
-
 - [Introduction](#introduction)
 - [Tâches et Opérations](#tâches-et-opérations)
   - [Contexte](#contexte)
@@ -10,8 +9,13 @@
   - [Intégration](#intégration)
   - [Déploiement](#déploiement)
 - [Moyens Utilisés](#moyens-utilisés)
+---
+## Demo
+
+Ce projet est hébergé sur GitHub Pages, ce qui signifie que vous pouvez accéder à l'application en ligne en suivant le lien : [Dictionnaire en Ligne](https://djed90.github.io/05-lab-dictionnary/).
 
 ---
+
 
 ## Introduction
 

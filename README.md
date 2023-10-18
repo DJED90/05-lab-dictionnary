@@ -1,4 +1,4 @@
-# Application de Dictionnaire
+<h1 align="center">Application de Dictionnaire</h1>
 
 ## Table des matières
 - [Introduction](#introduction)
